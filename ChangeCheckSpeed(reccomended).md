@@ -1,0 +1,1 @@
+ the code will only check for the button every 30 seconds, to change this edit the (30.0) value in the last line of code  "time.sleep(30.0)" To how many seconds you want before it checks again, the lower the number the faster it will be to click the claim allowance button but may use slightly more resorces, i reccomend setting the value to (5.0)
