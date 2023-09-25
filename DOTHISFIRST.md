@@ -1,2 +1,1 @@
-#IMPORTANT
-run "pip install pyautogui" in your command terminal and install all pyautogui libraries for code to work as intended
+Run "pip install pyautogui" in your command terminal and install all pyautogui libraries for code to work as intended
